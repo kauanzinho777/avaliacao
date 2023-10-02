@@ -1,0 +1,17 @@
+body{
+    background: green;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: darkred;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    color: darkred;
+}
+img{
+    width: 300px;
+    margin-left: 100px;
+}
